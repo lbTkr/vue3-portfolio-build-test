@@ -6,5 +6,6 @@
   - 35강. 프로젝트 배포하기 수행
 
  
-| ## 참고 노션 내용
+## 참고 노션 내용
+
 | https://long-grip-633.notion.site/3fd842d5d1404301a9e28caec3db7a21?pvs=143
